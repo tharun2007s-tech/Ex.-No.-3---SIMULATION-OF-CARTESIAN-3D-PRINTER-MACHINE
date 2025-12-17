@@ -63,7 +63,8 @@
 X_AXIS
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180117" src="https://github.com/user-attachments/assets/bc03b56f-caa5-43d9-be6b-0185ce93134b" />
-<img width="1920" height="1080" alt="Screenshot 2025-12-17 180128" src="https://github.com/user-attachments/assets/7bd721b8-cb26-4137-9103-b4759c1f2197" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 181038" src="https://github.com/user-attachments/assets/52bcde6d-94ea-4ae2-88f6-f6ba35c7b558" />
+
 
 Y_AXIS
 
