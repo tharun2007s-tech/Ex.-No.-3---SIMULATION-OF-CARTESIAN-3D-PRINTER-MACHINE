@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 17-12-2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,6 +59,40 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+
+X_AXIS
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180117" src="https://github.com/user-attachments/assets/bc03b56f-caa5-43d9-be6b-0185ce93134b" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180128" src="https://github.com/user-attachments/assets/7bd721b8-cb26-4137-9103-b4759c1f2197" />
+
+Y_AXIS
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180235" src="https://github.com/user-attachments/assets/9d219a21-6f3f-4ded-8c82-2664aa56a0ce" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180656" src="https://github.com/user-attachments/assets/1e12f07c-269e-4620-8fb4-388de4e6c4b7" />
+
+Z_AXIS
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180310" src="https://github.com/user-attachments/assets/e5a2f741-4654-4768-b34e-e8aa144434f2" />
+
+COMPLETE ASSEMBLY
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180325" src="https://github.com/user-attachments/assets/0718d64c-aa87-4a83-ac12-7ae72bf381db" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180910" src="https://github.com/user-attachments/assets/6139444f-f94a-4be5-950e-4c72f7f6517e" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180409" src="https://github.com/user-attachments/assets/c0af2856-124b-4ba5-b52c-8660295cb814" />
+
+WORKING 
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 180438" src="https://github.com/user-attachments/assets/26558806-2bed-48e4-b8a7-f2d0e5d3e5e6" />
+
+
+
+
+
+
+
+
+
+
 
 ### Name: 
 ### Register Number:
