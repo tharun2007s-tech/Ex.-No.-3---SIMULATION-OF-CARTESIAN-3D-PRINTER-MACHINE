@@ -60,28 +60,38 @@
 
 ## Output:
 
+
 X_AXIS
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180117" src="https://github.com/user-attachments/assets/bc03b56f-caa5-43d9-be6b-0185ce93134b" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 181038" src="https://github.com/user-attachments/assets/52bcde6d-94ea-4ae2-88f6-f6ba35c7b558" />
 
 
+
 Y_AXIS
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180235" src="https://github.com/user-attachments/assets/9d219a21-6f3f-4ded-8c82-2664aa56a0ce" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180656" src="https://github.com/user-attachments/assets/1e12f07c-269e-4620-8fb4-388de4e6c4b7" />
 
+
 Z_AXIS
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180310" src="https://github.com/user-attachments/assets/e5a2f741-4654-4768-b34e-e8aa144434f2" />
 
+
 COMPLETE ASSEMBLY
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180325" src="https://github.com/user-attachments/assets/0718d64c-aa87-4a83-ac12-7ae72bf381db" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180910" src="https://github.com/user-attachments/assets/6139444f-f94a-4be5-950e-4c72f7f6517e" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180409" src="https://github.com/user-attachments/assets/c0af2856-124b-4ba5-b52c-8660295cb814" />
 
+
 WORKING 
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180438" src="https://github.com/user-attachments/assets/26558806-2bed-48e4-b8a7-f2d0e5d3e5e6" />
 
@@ -95,8 +105,9 @@ WORKING
 
 
 
-### Name: 
-### Register Number:
+
+### Name: Tharun S
+### Register Number: 25007797
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
