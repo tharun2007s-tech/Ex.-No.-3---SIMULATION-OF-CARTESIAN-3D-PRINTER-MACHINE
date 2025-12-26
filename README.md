@@ -66,6 +66,8 @@ X_AXIS
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180117" src="https://github.com/user-attachments/assets/bc03b56f-caa5-43d9-be6b-0185ce93134b" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 181038" src="https://github.com/user-attachments/assets/52bcde6d-94ea-4ae2-88f6-f6ba35c7b558" />
+<img width="653" height="727" alt="Screenshot 2025-12-26 163747" src="https://github.com/user-attachments/assets/9558b05d-a369-4a10-b688-79fca0717614" />
+
 
 
 
@@ -74,12 +76,16 @@ Y_AXIS
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180235" src="https://github.com/user-attachments/assets/9d219a21-6f3f-4ded-8c82-2664aa56a0ce" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180656" src="https://github.com/user-attachments/assets/1e12f07c-269e-4620-8fb4-388de4e6c4b7" />
+<img width="637" height="667" alt="Screenshot 2025-12-26 163801" src="https://github.com/user-attachments/assets/7c1250e4-d9ae-4cf3-bac0-b8de28cebc4b" />
+
 
 
 Z_AXIS
 
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180310" src="https://github.com/user-attachments/assets/e5a2f741-4654-4768-b34e-e8aa144434f2" />
+<img width="654" height="382" alt="Screenshot 2025-12-26 163811" src="https://github.com/user-attachments/assets/d8f57a07-3014-47fe-bb49-227c608fc404" />
+
 
 
 COMPLETE ASSEMBLY
@@ -88,6 +94,8 @@ COMPLETE ASSEMBLY
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180325" src="https://github.com/user-attachments/assets/0718d64c-aa87-4a83-ac12-7ae72bf381db" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180910" src="https://github.com/user-attachments/assets/6139444f-f94a-4be5-950e-4c72f7f6517e" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 180409" src="https://github.com/user-attachments/assets/c0af2856-124b-4ba5-b52c-8660295cb814" />
+<img width="504" height="672" alt="Screenshot 2025-12-26 163826" src="https://github.com/user-attachments/assets/41abc158-0dcf-4cff-a23a-1427dc8c9283" />
+
 
 
 WORKING 
